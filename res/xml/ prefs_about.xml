@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aokp="http://schemas.android.com/apk/res/com.aokp.romcontrol">
+
+    <PreferenceCategory
+        android:key="carbon"
+        android:title="@string/aokp">
+
+        <Preference
+            android:key="Carbon_website"
+            android:title="@string/aokp_website_title"
+            android:summary="@string/aokp_website_summary" />
+
+        <Preference
+            android:key="carbon_review"
+            android:title="@string/aokp_review_title"
+            android:summary="@string/aokp_review_summary" />
+
+        <Preference
+            android:key="Carbon_irc"
+            android:title="@string/aokp_irc_title"
+            android:summary="@string/aokp_irc_summary" />
+
+        <Preference
+            android:key="carbon_dynamic_changelog"
+            android:title="@string/dynamic_changelog_title"
+            android:summary="@string/dynamic_changelog_summary" />
+
+        <com.carbon.settings.widgets.DeveloperPreference
+            android:title="Carbon"
+            aokp:nameDev="Carbon"
+            aokp:twitterHandle="Carbon_ROM"
+            aokp:githubLink="@string/github_carbon"
+            aokp:donateLink="@string/donate_carbon"
+            aokp:emailDev="teamcarbondev@gmail.com"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="devs"
+        android:title="@string/devs">
+         
+   </PreferenceCategory>
+</PreferenceScreen>

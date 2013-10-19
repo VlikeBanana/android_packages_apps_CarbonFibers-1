@@ -18,6 +18,8 @@
 
     <!-- Activity titles defined in AndroidManifest.xml -->
     <string name="title_clipboard_share">Copy to Clipboard</string>
+    <string name="title_about">About Carbon</string>
+    <string name="mgerrit_activity_name">mGerrit</string>
 
     <!-- T-Mobile Theme chooser settings  -->
     <string name="themes_title">Themes</string>
@@ -118,6 +120,21 @@
     <string name="icon_picker_gallery_title">Gallery</string>
     <string name="icon_picker_pack_title">Icon pack</string>
 
+    <!-- About -->
+    <string name="devs">The Crew</string>
+    <string name="carbon">CarbonRom</string>
+    <string name="carbon_website_title">Carbon Website</string>
+    <string name="carbon_website_summary">www.carbon-rom.com - Find all newest releases here.</string>
+    <string name="carbon_review_title">mGerrit</string>
+    <string name="carbon_review_summary">View Carbon\'s and AOSP\'s Gerrit Review instances quickly and easily</string>
+    <string name="carbon_irc_title">Join us on IRC</string>
+    <string name="carbon_irc_summary">#teamcarbon @ irc.freenode.net</string>
+    <string name="about_carbon">About AOKP</string>
+    <string name="about_carbon_summary">@null</string>
+    <string name="donate_carbon">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQV8UFE9JR9TG
+    </string>
+    <string name="github_carbon">https://github.com/CarbonDev</string>
+   
     <!-- Active Display -->
     <string name="ad_settings_title">Active display</string>
     <string name="ad_settings_summary">Change active display settings</string>

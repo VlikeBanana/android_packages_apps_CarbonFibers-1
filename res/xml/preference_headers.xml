@@ -3,6 +3,14 @@
    <header
         android:title="@string/user_interface" />
 
+   <!-- About Carbon --> 
+   <header
+        android:id="@+id/about"
+        android:fragment="com.carbon.settings.fragments.About"
+        android:title="@string/about_carbon"
+        android:icon="@drawable/ic_cf_about"
+        android:summary="@string/about_carbon_summary" />
+
     <!-- Animations -->
     <header
         android:id="@+id/animation_controls"
