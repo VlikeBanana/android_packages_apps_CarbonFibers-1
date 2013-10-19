@@ -129,7 +129,7 @@
     <string name="carbon_review_summary">View Carbon\'s and AOSP\'s Gerrit Review instances quickly and easily</string>
     <string name="carbon_irc_title">Join us on IRC</string>
     <string name="carbon_irc_summary">#teamcarbon @ irc.freenode.net</string>
-    <string name="about_carbon">About AOKP</string>
+    <string name="about_carbon">About Carbon</string>
     <string name="about_carbon_summary">@null</string>
     <string name="donate_carbon">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQV8UFE9JR9TG
     </string>
